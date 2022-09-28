@@ -39,19 +39,11 @@ Our seventh image shows average trip duration by birth year.
 
 ## Summary
 
+### Reflections
 
-In our analysis, 
-
-
-Links to images are working and displayed correctly. (2 pt)
-Analysis (24 points)
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-Results:
+- Our analysis shows that users, regardless of gender and age, use CitiBikes regularly starting from 6AM - 8PM, with peaks during rush hours in the morning and afternoon. The highest usage is from 5PM - 6PM. Providing users with an easy transportation option to get to and from work has been popular. We expect this to be scalable, regardless of location, particularly as more people seek to decrease their carbon footprint. In addition, most users use our bikes for short periods of time (about 5-10 minutes), but there's still demand for use of bikes for longer periods of time, upwards to an hour. Customers want an option to get them around the city that does not require getting into a car or calling a ride-share car service. In addition, in New York City, public transportation is very accessible for most residents. Des Moines, comparatively, has fewer options for public transportation, thereby increasing the likelihood that residents seek an alternative transportation option that is not a car. We anticipate that a similar program in Des Moines to be popular and successful. 
 
 
-Summary:
+### Suggestions
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+- For future analysis, it would be beneficial for investors to visualize how freqently bikes need to be serviced and the cost of servicing a bike. This data can be used to further inform corporate decisions to help the bottom line. Another visualization that may be beneficial is calculating the carbon footprint of a customer who uses CitiBike versus someone who owns and uses a personal car. A similar visualization that compares the cost of subscribing to CitiBike versus using a car would also be beneficial. These visualizations can be used for marketing purposes for the residents of Des Moines. 
