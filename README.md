@@ -14,20 +14,27 @@
 
 ### Visualizations from NYC Citibike Analysis
 
-Within our analysis, there are 7 visualizations.
+Within our analysis, there are 7 visualizations. Further analysis is provided within the textbooks of each image.
 
+Our first image shows checkout times for users.
 ![image1](https://user-images.githubusercontent.com/102992388/192880160-0844521f-d70f-48c3-8ea8-fa13cc366ef6.png)
 
+Our second image shows checkout times by gender
 ![image2](https://user-images.githubusercontent.com/102992388/192880211-68b40191-04da-423b-8392-dc1a33d0647e.png)
 
+Our third image shows trips by weekday per hour
 ![image3](https://user-images.githubusercontent.com/102992388/192880236-2fbf6295-417c-4538-9a43-0d6609891df8.png)
 
+Our fourth image shows trips by gender (weekday per hour)
 ![image4](https://user-images.githubusercontent.com/102992388/192880277-f0a65cf0-4323-4159-b3e2-cb5d7e954ff1.png)
 
+Our fifth image shows user trips by gender by weekday
 ![image5](https://user-images.githubusercontent.com/102992388/192880305-f9cc31fa-db4c-45cc-8838-86b106563255.png)
 
+Our sixth image shows August peak hours
 ![image6](https://user-images.githubusercontent.com/102992388/192880340-34dc68e1-8967-4d6a-b0f0-1a7b6992efd9.png)
 
+Our seventh image shows average trip duration by birth year.
 ![image7](https://user-images.githubusercontent.com/102992388/192880368-35330493-fbc2-412d-9cec-1637ebed93ac.png)
 
 ## Summary
