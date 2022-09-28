@@ -1,5 +1,8 @@
 # Bike Sharing Analysis for Citi-Bike
 
+- To further review analysis, please check out following link: 
+[link to dashboard](https://public.tableau.com/app/profile/josh5827/viz/BikeSharingChallenge_16643961419380/NYCCitiBikeChallengeStory?publish=yes)
+
 ## Overview of Statistical Analysis:
 
 ### Proposal
@@ -14,7 +17,7 @@
 
 ### Visualizations from NYC Citibike Analysis
 
-Within our analysis, there are 7 visualizations. Further analysis is provided within the textbooks of each image.
+Within our analysis, there are 7 visualizations. Further analysis is provided within the text of each image.
 
 Our first image shows checkout times for users.
 ![image1](https://user-images.githubusercontent.com/102992388/192880160-0844521f-d70f-48c3-8ea8-fa13cc366ef6.png)
