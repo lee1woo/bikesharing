@@ -1,7 +1,7 @@
 # Bike Sharing Analysis for Citi-Bike
 
 - To further review analysis, please check out following link: 
-[link to dashboard](https://public.tableau.com/app/profile/josh5827/viz/BikeSharingChallenge_16643961419380/NYCCitiBikeChallengeStory?publish=yes)
+[Tableau Analysis](https://public.tableau.com/app/profile/josh5827/viz/BikeSharingChallenge_16643961419380/NYCCitiBikeChallengeStory?publish=yes)
 
 ## Overview of Statistical Analysis:
 
